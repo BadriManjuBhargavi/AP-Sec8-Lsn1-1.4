@@ -1,0 +1,8 @@
+C:\Users\kalpa\OneDrive\Desktop\Practise Exercises\C#\Assisted Projects-C#\Arrays-Sec8-Lsn1-1.4\Arrays-Sec8-Lsn1-1.4\bin\Debug\Arrays-Sec8-Lsn1-1.4.exe.config
+C:\Users\kalpa\OneDrive\Desktop\Practise Exercises\C#\Assisted Projects-C#\Arrays-Sec8-Lsn1-1.4\Arrays-Sec8-Lsn1-1.4\bin\Debug\Arrays-Sec8-Lsn1-1.4.exe
+C:\Users\kalpa\OneDrive\Desktop\Practise Exercises\C#\Assisted Projects-C#\Arrays-Sec8-Lsn1-1.4\Arrays-Sec8-Lsn1-1.4\bin\Debug\Arrays-Sec8-Lsn1-1.4.pdb
+C:\Users\kalpa\OneDrive\Desktop\Practise Exercises\C#\Assisted Projects-C#\Arrays-Sec8-Lsn1-1.4\Arrays-Sec8-Lsn1-1.4\obj\Debug\Arrays-Sec8-Lsn1-1.4.csproj.AssemblyReference.cache
+C:\Users\kalpa\OneDrive\Desktop\Practise Exercises\C#\Assisted Projects-C#\Arrays-Sec8-Lsn1-1.4\Arrays-Sec8-Lsn1-1.4\obj\Debug\Arrays-Sec8-Lsn1-1.4.csproj.SuggestedBindingRedirects.cache
+C:\Users\kalpa\OneDrive\Desktop\Practise Exercises\C#\Assisted Projects-C#\Arrays-Sec8-Lsn1-1.4\Arrays-Sec8-Lsn1-1.4\obj\Debug\Arrays-Sec8-Lsn1-1.4.csproj.CoreCompileInputs.cache
+C:\Users\kalpa\OneDrive\Desktop\Practise Exercises\C#\Assisted Projects-C#\Arrays-Sec8-Lsn1-1.4\Arrays-Sec8-Lsn1-1.4\obj\Debug\Arrays-Sec8-Lsn1-1.4.exe
+C:\Users\kalpa\OneDrive\Desktop\Practise Exercises\C#\Assisted Projects-C#\Arrays-Sec8-Lsn1-1.4\Arrays-Sec8-Lsn1-1.4\obj\Debug\Arrays-Sec8-Lsn1-1.4.pdb
